@@ -1,5 +1,7 @@
 # booHouse
 
+[Request additional documentation here: https://docs.google.com/presentation/d/1us1byjchfvqyLrl5bhiDQsLY0usq12HcknsD5SRnQ5U/edit?usp=sharing]
+
 The booHouse is composed of 4 modules of 16 m2 each:
 three on the ground floor and one the second floor.
 
